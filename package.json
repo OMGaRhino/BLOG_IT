@@ -1,0 +1,32 @@
+{
+  "name": "blogit",
+  "version": "0.0.1",
+  "description": "test heroku push",
+  "main": "web.js",
+  "dependencies": {
+    "express": "^4.2.0",
+    "logfmt": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OMGaRhino/BLOG_IT.git"
+  },
+  "keywords": [
+    "test",
+    "heroku",
+    "push"
+  ],
+  "author": "OMGaRhino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OMGaRhino/BLOG_IT/issues"
+  },
+  "homepage": "https://github.com/OMGaRhino/BLOG_IT",
+  "engines": {
+    "node": "0.10.28"
+  }
+}
